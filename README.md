@@ -9,9 +9,9 @@
 
  - [Font Awesome](https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&display=swap)
  - [Vite DEV](https://vitejs.dev/)
- - [Scroll Reveal]([https://swiperjs.com/](https://scrollrevealjs.org/))
+ - [Scroll Reveal](https://scrollrevealjs.org/api/reveal.html)
  - [Icon Scout](https://iconscout.com/)
- - [Mixi Tup] (https://www.kunkalabs.com/mixitup/)
+ - [Mixi Tup]( https://www.kunkalabs.com/mixitup/)
  
 
 
@@ -20,6 +20,11 @@
 - [@EliasMartinzs](https://github.com/EliasMartinzs)
 - [@TRUECODER](https://www.youtube.com/@TrueCoder)
 
+# Funcionalidades
+Dark & Light Theme 
+Redirecionamento Email
+Formulario
+Newsletter
 
 # Scroll Reveal
 

@@ -9,22 +9,30 @@
 
  - [Font Awesome](https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200&display=swap)
  - [Vite DEV](https://vitejs.dev/)
- - [Swiper Js](https://swiperjs.com/)
+ - [Scroll Reveal]([https://swiperjs.com/](https://scrollrevealjs.org/))
  - [Icon Scout](https://iconscout.com/)
- - [Form Spree](https://formspree.io/)
+ - [Mixi Tup] (https://www.kunkalabs.com/mixitup/)
+ 
 
 
 ## Autores
 
 - [@EliasMartinzs](https://github.com/EliasMartinzs)
-- [@EGATORTUTORIALS](https://www.youtube.com/@EGATORTUTORIALS)
+- [@TRUECODER](https://www.youtube.com/@TrueCoder)
 
 
-# Swiper JS APi
+# Scroll Reveal
 
-Swiper - is the free and most modern mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps.
+ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.
 
-Swiper is not compatible with all platforms, it is a modern touch slider which is focused only on modern apps/platforms to bring the best experience and simplicity.
+https://github.com/oddoculus/
+
+# MixItUp 3
+A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more...
+MixItUp gives you beautiful animated DOM manipulation on top of native CSS layout.
+
+https://github.com/patrickkunka/mixitup/
+
 ## Deploy
 
 Para fazer o deploy desse projeto rode
@@ -35,5 +43,6 @@ Para Mais Acessar https://vitejs.dev/
   npm run dev
 ```
 
-![Team](https://user-images.githubusercontent.com/97196276/208280327-b2434a7b-9115-498b-ade0-ef03c527b263.png)
-![Home](https://user-images.githubusercontent.com/97196276/208280330-84bc195e-1dd0-44d2-bd7b-4dfaa55d06c5.png)
+![1](https://user-images.githubusercontent.com/97196276/210626360-230e5c2f-95ab-47ce-806b-b5ef5b654b1b.png)
+![2](https://user-images.githubusercontent.com/97196276/210626362-7f2cb0d7-2598-4232-adef-83b47f043a6a.png)
+
